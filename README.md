@@ -20,8 +20,12 @@ The audio and structure are **inspired by Radiohead’s track “All I Need”.
 
 
 ## How to Run
-1. Open the shared **TunePad project link** provided in this repository.  
-2. Press **Play All** to hear the full composition.   
+1. Go to [https://tunepad.com](https://tunepad.com).
+2. Log in or create a free TunePad account.
+3. Click **Projects** → **Import Project**.
+4. Upload the file named `tunepad_project_117860.json` from this repository.
+5. Once imported, open the project in TunePad.
+6. Press **Play All** to hear the full composition.
 
 
 ## File Structure
